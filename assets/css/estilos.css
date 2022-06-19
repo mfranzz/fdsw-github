@@ -16,11 +16,24 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("../img/bg-hero1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
+  background-position: top;
 }
+
+.bajada {
+  font-size: 30px;
+}
+.header-button {
+    border-width: 3px;
+}
+.header-button1 {
+  border: #05A;
+  background-color: #05A;
+}
+
 
 /* Mis trabajos */
 
