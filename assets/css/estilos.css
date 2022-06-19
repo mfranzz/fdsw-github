@@ -1,8 +1,16 @@
 body {
   font-family: "Raleway", sans-serif;
 }
+
 .navbar {
+  background-color: #05A;
   font-family: 'PT Sans', sans-serif;
+}
+
+.navbar p{
+  font-size: 25px;
+  margin-bottom: 0px;
+  font-weight: 700;
 }
 
 /* Hero Section */
