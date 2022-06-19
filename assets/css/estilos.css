@@ -2,6 +2,8 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
+/* navbar */
+
 .navbar {
   background-color: #05A;
   font-family: 'PT Sans', sans-serif;
@@ -33,7 +35,6 @@ body {
   border: #05A;
   background-color: #05A;
 }
-
 
 /* Mis trabajos */
 
